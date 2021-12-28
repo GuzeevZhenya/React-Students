@@ -1,4 +1,4 @@
-https://react-mysocial.herokuapp.com/
+ https://react-mysocial.herokuapp.com/ Выгруженный проект на heroku
 
 # Getting Started with Create React App
 
